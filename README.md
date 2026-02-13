@@ -17,4 +17,4 @@ python3 src/directory_tree.py path/to/directory
 
 
 4. ## Run assistant bot
-python3 src/assistant/main.py
+python3 src/main.py
