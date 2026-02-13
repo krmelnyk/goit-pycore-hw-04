@@ -9,7 +9,7 @@ python3 src/cats.py
 
 3. ## Setup
 python -m venv venv
-venv\Scripts\activate
+source venv/bin/activate
 pip install -r requirements.txt
 
 ## Run directory tree
